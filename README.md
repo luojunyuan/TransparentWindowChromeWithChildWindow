@@ -1,4 +1,6 @@
-[3e6a22e](https://github.com/luojunyuan/TransparentWindowChromeWithChildWindow/commit/3e6a22ec1757c216711510129b1fc6c8a3e8fc96)
+[Modify 3e6a22e](https://github.com/luojunyuan/TransparentWindowChromeWithChildWindow/commit/3e6a22ec1757c216711510129b1fc6c8a3e8fc96)
+
+[WPF-制作支持点击穿透的高性能的透明背景异形窗口](https://blog.lindexi.com/post/WPF-制作支持点击穿透的高性能的透明背景异形窗口.html)
 
 基于博客代码，增加的代码，子窗口相关复现都在 MainWindow.xaml.cs 的构造函数
 
